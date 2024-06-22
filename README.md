@@ -36,4 +36,6 @@ It includes features for both students and instructors, providing a comprehensiv
 - MongoDB
 - Mongoose
 - JWT (JSON Web Tokens) for Authentication
-  
+
+[Landing Page]([https://example.com](https://github.com/adi090/LMS/blob/main/frontend/src/assets/img/Screenshot%20(37).png?raw=true))
+
