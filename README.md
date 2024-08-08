@@ -37,5 +37,16 @@ It includes features for both students and instructors, providing a comprehensiv
 - Mongoose
 - JWT (JSON Web Tokens) for Authentication
 ### Landing Page
-![Screenshot (37)](https://github.com/adi090/LMS/assets/106433177/015070e7-1740-4b72-9197-ebc4b5093883)
+![Screenshot (37)](https://github.com/user-attachments/assets/766766eb-d24b-4449-9d31-4cf329142d77)
+### About Page
+![Screenshot (38)](https://github.com/user-attachments/assets/3867c6b3-b5b5-4b85-a3e3-57abffc12215)
+### Courses
+![Screenshot (39)](https://github.com/user-attachments/assets/85a08dc1-3eb0-4806-87de-abdb4f2f3511)
+### Contact us
+![Screenshot (40)](https://github.com/user-attachments/assets/e0aeca73-0bf0-46c0-bd14-c3e9fabb79bb)
+### Teacher Login
+![Screenshot (41)](https://github.com/user-attachments/assets/eab0a930-89b6-4aa3-9e0e-b38c3ee1e965)
+### Student Login
+![Screenshot (42)](https://github.com/user-attachments/assets/ed13d7bb-af1a-4e00-b5ee-aef47856145b)
+
 
