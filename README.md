@@ -16,9 +16,6 @@ This repository contains the source code and implementation of a Learning Manage
 
 The Learning Management System (LMS) is a web-based application that facilitates the management and delivery of educational content and training materials. It allows administrators to create courses, manage users, and track progress. Users can access courses, view content, and complete assessments. Additionally, it offers subscription management through Razorpay, allowing users to purchase and cancel subscriptions.
 
-## Preview
-
-You can preview the project at [Preview Link](https://lms-by-sukomal.vercel.app).
 
 ## Features
 
@@ -26,10 +23,9 @@ You can preview the project at [Preview Link](https://lms-by-sukomal.vercel.app)
 - Course creation, modification, and deletion
 - Content upload and management using Cloudinary
 - User enrollment in courses
-- Course progress tracking
-- Interactive user interface using React and Tailwind CSS
-- Subscription management with Razorpay
 
+- Interactive user interface using React and Tailwind CSS
+  
 ## Prerequisites
 
 Before running this project locally, ensure you have the following installed:
@@ -38,7 +34,7 @@ Before running this project locally, ensure you have the following installed:
 - [npm](https://www.npmjs.com/) (v6.x or higher)
 - [MongoDB](https://www.mongodb.com/) (v4.x or higher)
 - [Cloudinary](https://cloudinary.com/) account and API credentials
-- [Razorpay](https://razorpay.com/) account and API credentials
+
 
 ## Installation
 
